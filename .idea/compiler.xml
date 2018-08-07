@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="biz-service" />
-        <module name="common-service" />
         <module name="config-service" />
         <module name="discovery-service" />
+        <module name="file-service" />
         <module name="gateway-service" />
         <module name="project-service" />
       </profile>
