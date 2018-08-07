@@ -11,6 +11,7 @@
         <module name="config-service" />
         <module name="discovery-service" />
         <module name="gateway-service" />
+        <module name="project-service" />
       </profile>
     </annotationProcessing>
   </component>
